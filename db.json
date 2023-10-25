@@ -1,0 +1,19 @@
+{
+  "maintask": [
+    {
+      "taskname": "Cycling",
+      "id": 2,
+      "stat": false
+    },
+    {
+      "taskname": "Driving",
+      "id": 3,
+      "stat": false
+    },
+    {
+      "taskname": "Swimming ",
+      "stat": true,
+      "id": 4
+    }
+  ]
+}
